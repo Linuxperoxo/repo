@@ -1,0 +1,5 @@
+PKGNAME="neofetch"
+PKGVERSION="7.1.0"
+PKGSOURCE="https://github.com/dylanaraps/neofetch/archive/refs/tags/7.1.0.tar.gz"
+PKGDESC="A command-line tool for Linux that displays system information in a stylish ASCII or image banner format."
+PKGEXTENSION="tar.gz"
